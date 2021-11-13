@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+git newstartos 可以出售
+
+联系邮箱 myzhs@hotmail.com
+
 <!--
 **newstartos/newstartos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
